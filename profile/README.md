@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="/assets/chaskay.png" alt="Chaskay" width="100" />
-  <h2>Chaskay</h2>
+  <p>Chaskay</p>
 </h1>
 
 <p align="center"><em>Dark themes for developers, inspired by the night sky and built for modern tooling.</em></p>
