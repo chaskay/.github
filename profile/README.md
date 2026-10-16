@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Perfil
-
-Este directorio contiene la información del perfil del repositorio.
-=======
 <h1 align="center">
   <img src="/assets/chaskay.png" alt="Chaskay" width="100" />
   <h2>Chaskay</h2>
@@ -20,4 +15,3 @@ Este directorio contiene la información del perfil del repositorio.
 ## License
 
 Chaskay is distributed under the [MIT License](LICENSE).
->>>>>>> 8cd39b8 (add Chaskay branding and description to profile README)
